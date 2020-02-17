@@ -147,3 +147,22 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/mayamonika998/tekn-cloud-computing
    5a780d1..6a89a3e  master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+C:\tekn_cloud_computing\tekn-cloud-computing>git add .
+
+C:\tekn_cloud_computing\tekn-cloud-computing>git commit -m "praktikum TCC minggu 01"
+[master 45cd071] praktikum TCC minggu 01
+ 1 file changed, 149 insertions(+)
+ create mode 100644 minggu-01/git-single.md
+
+C:\tekn_cloud_computing\tekn-cloud-computing>git push -u origin master
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 2.42 KiB | 825.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/mayamonika998/tekn-cloud-computing
+   6a89a3e..45cd071  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
