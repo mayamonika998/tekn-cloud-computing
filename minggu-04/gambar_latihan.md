@@ -17,6 +17,5 @@ $ cd devstack
 5. Memulai install
 $ ./stack.sh
 ![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-04/05.PNG)
-
-masukan password :
 ![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-04/06.PNG)
+![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-04/07.PNG)
