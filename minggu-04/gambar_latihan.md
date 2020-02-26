@@ -1,0 +1,1 @@
+![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-04/01.PNG)
