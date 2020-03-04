@@ -27,10 +27,14 @@ Penyedia SaaS menyimpan aplikasi dan data secara terpusat - tambalan penyebaran.
 
 
 Arsitektur SAAS:
+![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-02/SAAS%20Arsitektur.png)
+
 
 Dengan model ini, satu versi aplikasi, dengan satu konfigurasi digunakan untuk semua pelanggan. Aplikasi ini diinstal pada banyak mesin untuk mendukung skalabilitas (disebut penskalaan horizontal). Dalam beberapa kasus, versi kedua aplikasi diatur untuk menawarkan kelompok pelanggan tertentu dengan akses ke versi pra-rilis aplikasi untuk tujuan pengujian. Dalam model tradisional ini, setiap versi aplikasi didasarkan pada kode unik. Meskipun pengecualian, beberapa solusi SaaS tidak menggunakan multitenancy, untuk mengelola secara efektif sejumlah besar pelanggan di tempat. Apakah multitenancy merupakan komponen yang diperlukan untuk perangkat lunak-sebagai-layanan adalah topik kontroversi.
 
 Ada dua varietas utama SaaS:
+![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-02/SAAS%20Vertikal%20dan%20Horisontal.png)
+
 
 1. SaaS Vertikal
 Perangkat Lunak yang menjawab kebutuhan industri tertentu (mis. Perangkat lunak untuk kesehatan, pertanian, real estat, industri keuangan)
