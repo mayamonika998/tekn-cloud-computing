@@ -2,6 +2,8 @@ Latihan
 
 1. Install Go, MySQL, dan MongoDB
 
+![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-06/go_mongodb_mysql.PNG)
+
 Instalasi Go
 
 ![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-06/install%20go1.PNG)
@@ -20,4 +22,6 @@ Instalasi MySQL
 
 ![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-06/install%20mysql1.PNG)
 
-![]()
+![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-06/mysql2.PNG)
+
+![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-06/mysql3.PNG)
