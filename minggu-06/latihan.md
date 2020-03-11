@@ -25,3 +25,11 @@ Instalasi MySQL
 ![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-06/mysql2.PNG)
 
 ![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-06/mysql3.PNG)
+
+2. Buat 2 contoh program Go masing-masing untuk koneksi dan membaca data dari MySQL dan MongoDB.
+
+![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-06/prog1.PNG)
+
+go run melalui cmd "go run prog1.go"
+
+![](https://github.com/mayamonika998/tekn-cloud-computing/blob/master/minggu-06/run%20prog1.PNG)
